@@ -1,0 +1,40 @@
+.we{
+    box-shadow: 3px 3px 5px rgb(88, 81, 81);
+ background-color: black;
+ width: 170px;
+ height: 200px;   
+}
+img{
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+h1{
+    color: aliceblue;
+    font-size: medium;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    font-size: medium;
+    text-align: center;  
+}
+.bar{
+    box-shadow: 3px 3px 5px rgb(88, 81, 81);
+    margin-top: 0px;
+    background-color: rgb(158, 167, 167);
+    height: 84px;
+    width:170 ;
+    font-size: medium;
+    text-align: center;
+}
+.er{
+    box-shadow: 3px 3px 5px rgb(88, 81, 81);
+    background-color: rgb(158, 167, 167);
+    height: 35px;
+    width: 170px;
+    margin-top: 10px;
+    border-radius: 12px;
+}
